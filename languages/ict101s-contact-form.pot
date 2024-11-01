@@ -1,0 +1,162 @@
+# Copyright (C) 2019 Babatope (Ben) Babajide
+# This file is distributed under the same license as the Basic Contact Form plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Basic Contact Form 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ict101s-contact-form\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-08-02T16:28:50-04:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: ict101s-contact-form\n"
+
+#. Plugin Name of the plugin
+msgid "Basic Contact Form"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://itcrackteam.com/101series/wordpress/plugins/ict101s-contact-form"
+msgstr ""
+
+#. Description of the plugin
+msgid "Creates a page and displays a contact form."
+msgstr ""
+
+#. Author of the plugin
+msgid "Babatope (Ben) Babajide"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://itcrackteam.com/ben"
+msgstr ""
+
+#: includes/class-contact-form-activator.php:45
+msgid "You must update WordPress to use this plugin."
+msgstr ""
+
+#: includes/class-contact-form-activator.php:74
+msgid "Error creating a page for contact form!"
+msgstr ""
+
+#: includes/class-contact-form-activator.php:96
+msgid "Error setting contact form options!"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-admin.php:27
+msgid "Basic Contact Form settings"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-admin.php:27
+msgid "Basic Contact Form Settings"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-admin.php:47
+msgid "Select an option below to let Basic Contact Form know how to handle your messages."
+msgstr ""
+
+#: admin/class-ict101s-contact-form-admin.php:61
+msgid "Save and email messages"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-admin.php:67
+msgid "Email messages"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-admin.php:73
+msgid "Save messages"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-admin.php:75
+#: public/class-ict101s-contact-form-public.php:50
+msgid "Submit"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-admin.php:92
+msgid "Security check failed!"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-admin.php:130
+msgid "Option updated, excellent!"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-post-type.php:40
+#: admin/class-ict101s-contact-form-post-type.php:41
+msgid "Basic Contact Form Messages"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-post-type.php:61
+#: public/class-ict101s-contact-form-public.php:153
+msgid "First Name"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-post-type.php:62
+msgid "Last Name"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-post-type.php:63
+#: public/class-ict101s-contact-form-public.php:155
+msgid "Email"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-post-type.php:64
+#: public/class-ict101s-contact-form-public.php:156
+msgid "Phone"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-post-type.php:65
+msgid "Date"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-post-type.php:66
+#: public/class-ict101s-contact-form-public.php:157
+msgid "Message"
+msgstr ""
+
+#: public/class-ict101s-contact-form-public.php:31
+msgid "Your message was submitted successfully."
+msgstr ""
+
+#: public/class-ict101s-contact-form-public.php:38
+msgid "First name:"
+msgstr ""
+
+#: public/class-ict101s-contact-form-public.php:41
+msgid "Last name:"
+msgstr ""
+
+#: public/class-ict101s-contact-form-public.php:43
+msgid "Email:"
+msgstr ""
+
+#: public/class-ict101s-contact-form-public.php:45
+msgid "Phone:"
+msgstr ""
+
+#: public/class-ict101s-contact-form-public.php:47
+msgid "Message:"
+msgstr ""
+
+#: public/class-ict101s-contact-form-public.php:74
+msgid "The First Name, Last Name, Phone, email and message fields are required."
+msgstr ""
+
+#: public/class-ict101s-contact-form-public.php:137
+msgid "Message Submission Error"
+msgstr ""
+
+#: public/class-ict101s-contact-form-public.php:154
+msgid "Last  Name"
+msgstr ""
+
+#: admin/class-ict101s-contact-form-admin.php:
+msgid "Basic Settings"
+msgstr ""
+
+#: public/class-ict101s-contact-form-public.php:
+msgid "Contact Us"
+msgstr ""
+

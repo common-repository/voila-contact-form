@@ -1,0 +1,23 @@
+.input {
+border-style: solid;
+border-width: 1px;
+background-color: #D5D2D2;
+}
+
+.message {
+	padding: .75rem 1.25rem;
+	margin-bottom: 1rem;
+	border: 1px solid transparent;
+	border-radius: .25rem;
+	display: block;
+}
+
+.success {
+	color: #155724;
+	background-color: #d4edda;
+	border-color: #c3e6cb;
+}
+
+.message p {
+	margin: 0 !important;
+}
